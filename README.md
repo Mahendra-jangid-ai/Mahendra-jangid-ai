@@ -60,10 +60,10 @@ Here are some of my GitHub projects:
 
 <p align="center">
   <a href="https://github.com/Mahendra-jangid-ai/Customer-Specific-Product-Recommender">
-    <img src="https://repository-images.githubusercontent.com/293860197/7fd72080-496d-11eb-8fe0-238b38a0746a" width="250" alt="Product Recommender"/>
+    <img src="https://github.com/Mahendra-jangid-ai/Customer-Specific-Product-Recommender/raw/main/screenshot.png" width="250" alt="Product Recommender"/>
   </a>
   <a href="https://github.com/Mahendra-jangid-ai/Another-Repo">
-    <img src="https://repository-images.githubusercontent.com/293860197/7fd72080-496d-11eb-8fe0-238b38a0746a" width="250" alt="Another Project"/>
+    <img src="https://github.com/Mahendra-jangid-ai/Another-Repo/raw/main/screenshot.png" width="250" alt="Another Project"/>
   </a>
 </p>
 
@@ -77,3 +77,10 @@ Here are some of my GitHub projects:
   <a href="https://www.linkedin.com/in/mahendra-jangid-2969412a2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Mahendra-jangid-ai"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
+
+---
+
+### ⚡ Fun Facts
+- 🌟 GitHub enthusiast with a love for coding and AI  
+- 🚀 Always exploring new technologies and frameworks  
+- 🎯 Goal: Become a full-stack AI/ML engineer and build innovative products
