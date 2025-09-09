@@ -7,14 +7,16 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently interning at **Capsitech**  
-- 🌱 Currently learning **Deep Learning, Reinforcement Learning & Full-Stack Development**  
-- 👯 Looking to collaborate on **AI, ML, and IoT Projects**  
+I am a passionate **BCA student and AI/ML enthusiast** with hands-on experience in **web development and deep learning**. I love building innovative solutions and learning the latest in **AI, Machine Learning, and Full-Stack Development**.  
+
+- 🔭 Currently interning at **Capsitech**  
+- 🌱 Learning **Deep Learning, Reinforcement Learning & Full-Stack Development**  
+- 👯 Open to collaborate on **AI, ML, IoT, and Web Projects**  
 - 💬 Ask me about **Python, React, APIs, Machine Learning**  
 - 📍 Based in **Jodhpur, India**  
-- 📫 Reach me at **mahendrakumar24325@gmail.com**  
+- 📫 Email: **[mahendrakumar24325@gmail.com](mailto:mahendrakumar24325@gmail.com)**  
 - 🌐 Portfolio: [GitHub Projects](https://github.com/Mahendra-jangid-ai)  
-- 💼 LinkedIn: [Mahendra Jangid](https://www.linkedin.com/in/mahendra-jangid-2969412a2/)  
+- 💼 LinkedIn: [Mahendra Jangid](https://www.linkedin.com/in/mahendra-jangid-2969412a2/)
 
 ---
 
@@ -36,23 +38,44 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahendra-jangid-ai&show_icons=true&theme=radical" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahendra-jangid-ai&theme=radical" alt="streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahendra-jangid-ai&layout=compact&theme=radical" alt="langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahendra-jangid-ai&show_icons=true&theme=radical" alt="GitHub Stats" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahendra-jangid-ai&theme=radical" alt="GitHub Streak" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahendra-jangid-ai&layout=compact&theme=radical" alt="Top Languages" width="40%"/>
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mahendra-jangid-ai&theme=radical&no-frame=true&margin-w=5" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Mahendra-jangid-ai&theme=radical&no-frame=true&margin-w=5" alt="GitHub Trophies" width="60%"/>
 </p>
 
 ---
 
-### 🔗 Let's Connect
+### 💡 Projects
+Here are some projects I am proud of:  
+
+| Project | Tech Stack | Description | Link |
+|---------|------------|-------------|------|
+| AI/ML Project | Python, TensorFlow, Pandas | Customer-specific product recommender system | [GitHub](https://github.com/Mahendra-jangid-ai) |
+| Web App | React, Flask | Full-stack project integrating front-end and back-end | [GitHub](https://github.com/Mahendra-jangid-ai) |
+| IoT Project | Python, Arduino | Home automation and sensor integration | [GitHub](https://github.com/Mahendra-jangid-ai) |
+
+---
+
+### 🔗 Connect with Me
 <p align="center">
   <a href="mailto:mahendrakumar24325@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mahendra-jangid-2969412a2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Mahendra-jangid-ai"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
+
+---
+
+### ⚡ Fun Facts
+- 🌟 GitHub enthusiast with a love for coding and AI  
+- 🚀 Always exploring new technologies and frameworks  
+- 🎯 Goal: Become a full-stack AI/ML engineer and build innovative products
