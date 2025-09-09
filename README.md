@@ -8,11 +8,13 @@
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently interning at **Capsitech**  
-- 🌱 I’m learning **Deep Learning & Reinforcement Learning**  
-- 👯 I’m looking to collaborate on **AI + IoT Projects**  
-- 💬 Ask me about **Python, React, APIs, ML**  
+- 🌱 Currently learning **Deep Learning, Reinforcement Learning & Full-Stack Development**  
+- 👯 Looking to collaborate on **AI, ML, and IoT Projects**  
+- 💬 Ask me about **Python, React, APIs, Machine Learning**  
+- 📍 Based in **Jodhpur, India**  
 - 📫 Reach me at **mahendrakumar24325@gmail.com**  
 - 🌐 Portfolio: [GitHub Projects](https://github.com/Mahendra-jangid-ai)  
+- 💼 LinkedIn: [Mahendra Jangid](https://www.linkedin.com/in/mahendra-jangid-2969412a2/)  
 
 ---
 
@@ -26,6 +28,8 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
 ---
@@ -42,4 +46,13 @@
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mahendra-jangid-ai&theme=radical&no-frame=true&margin-w=5" alt="trophies"/>
+</p>
+
+---
+
+### 🔗 Let's Connect
+<p align="center">
+  <a href="mailto:mahendrakumar24325@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mahendra-jangid-2969412a2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/Mahendra-jangid-ai"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
