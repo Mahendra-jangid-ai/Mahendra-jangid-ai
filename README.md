@@ -55,32 +55,9 @@ I am a passionate **BCA student and AI/ML enthusiast** with hands-on experience 
 
 ---
 
-### 💼 Projects
-Here are some of my GitHub projects:  
-
-<p align="center">
-  <a href="https://github.com/Mahendra-jangid-ai/Customer-Specific-Product-Recommender">
-    <img src="https://github.com/Mahendra-jangid-ai/Customer-Specific-Product-Recommender/raw/main/screenshot.png" width="250" alt="Product Recommender"/>
-  </a>
-  <a href="https://github.com/Mahendra-jangid-ai/Another-Repo">
-    <img src="https://github.com/Mahendra-jangid-ai/Another-Repo/raw/main/screenshot.png" width="250" alt="Another Project"/>
-  </a>
-</p>
-
-> Click on the project images to view the repositories on GitHub.
-
----
-
 ### 🔗 Connect with Me
 <p align="center">
   <a href="mailto:mahendrakumar24325@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mahendra-jangid-2969412a2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/Mahendra-jangid-ai"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
-
----
-
-### ⚡ Fun Facts
-- 🌟 GitHub enthusiast with a love for coding and AI  
-- 🚀 Always exploring new technologies and frameworks  
-- 🎯 Goal: Become a full-stack AI/ML engineer and build innovative products
