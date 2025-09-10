@@ -11,7 +11,7 @@ I am a passionate **BCA student and AI/ML enthusiast** with hands-on experience 
 
 - 🔭 Currently interning at **Capsitech**  
 - 🌱 Learning **Deep Learning, Reinforcement Learning & Full-Stack Development**  
-- 👯 Open to collaborate on **AI, ML, IoT, and Web Projects**  
+- 👯 working on **AI, ML and Web Projects**  
 - 💬 Ask me about **Python, React, APIs, Machine Learning**  
 - 📍 Based in **Jodhpur, India**  
 - 📫 Email: **[mahendrakumar24325@gmail.com](mailto:mahendrakumar24325@gmail.com)**  
