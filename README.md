@@ -1,6 +1,5 @@
 <!-- Banner -->
 
-
 <h1 align="center">Hi 👋, I'm Mahendra Jangid</h1>
 <h3 align="center">🚀 BCA Student | 🤖 AI/ML/DL Enthusiast | 🌐 Web Developer</h3>
 
@@ -11,7 +10,7 @@ I am a passionate **BCA student and AI/ML enthusiast** with hands-on experience 
 
 - 🔭 Currently interning at **Capsitech**  
 - 🌱 Learning **Deep Learning, Reinforcement Learning & Full-Stack Development**  
-- 👯 working on **AI, ML and Web Projects**  
+- 👯 Working on **AI, ML and Web Projects**  
 - 💬 Ask me about **Python, React, APIs, Machine Learning**  
 - 📍 Based in **Jodhpur, India**  
 - 📫 Email: **[mahendrakumar24325@gmail.com](mailto:mahendrakumar24325@gmail.com)**  
@@ -38,12 +37,12 @@ I am a passionate **BCA student and AI/ML enthusiast** with hands-on experience 
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahendra-jangid-ai&show_icons=true&theme=radical" alt="GitHub Stats" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mahendra-jangid-ai&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" width="45%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahendra-jangid-ai&theme=radical" alt="GitHub Streak" width="45%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahendra-jangid-ai&layout=compact&theme=radical" alt="Top Languages" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahendra-jangid-ai&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" width="40%"/>
 </p>
 
 ---
@@ -51,6 +50,23 @@ I am a passionate **BCA student and AI/ML enthusiast** with hands-on experience 
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mahendra-jangid-ai&theme=radical&no-frame=true&margin-w=5" alt="GitHub Trophies" width="60%"/>
+</p>
+
+---
+
+### 🏗️ Projects
+<p align="center">
+  - **AI/ML Projects:** [Click Here](https://github.com/Mahendra-jangid-ai?tab=repositories&q=AI)  
+  - **Web Development Projects:** [Click Here](https://github.com/Mahendra-jangid-ai?tab=repositories&q=Web)  
+</p>
+
+---
+
+### 🎓 Certifications
+<p align="center">
+  - Deep Learning Specialization (Coursera)  
+  - Python for Data Science (edX)  
+  - Full-Stack Web Development (FreeCodeCamp)
 </p>
 
 ---
