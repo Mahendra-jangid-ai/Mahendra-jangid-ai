@@ -36,25 +36,6 @@ I am a passionate **BCA student and AI/ML enthusiast** with hands-on experience 
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahendra-jangid-ai&show_icons=true&theme=radical" alt="GitHub Stats" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahendra-jangid-ai&theme=radical" alt="GitHub Streak" width="45%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahendra-jangid-ai&layout=compact&theme=radical" alt="Top Languages" width="40%"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mahendra-jangid-ai&theme=radical&no-frame=true&margin-w=5" alt="GitHub Trophies" width="60%"/>
-</p>
-
----
-
 ### 🔗 Connect with Me
 <p align="center">
   <a href="mailto:mahendrakumar24325@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
