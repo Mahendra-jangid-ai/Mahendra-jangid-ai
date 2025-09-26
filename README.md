@@ -1,6 +1,5 @@
 <!-- Banner -->
 
-
 <h1 align="center">Hi 👋, I'm Mahendra Jangid</h1>
 <h3 align="center">🚀 BCA Student | 🤖 AI/ML/DL Enthusiast | 🌐 Web Developer</h3>
 
